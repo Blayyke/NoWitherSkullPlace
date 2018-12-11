@@ -1,0 +1,5 @@
+name: NoWitherSkullPlace
+version: @version@
+main: me.xa5.nowitherskullplace.NoWitherSkullPlace
+authors: [xA5]
+description: Disables placing wither skulls on top of certain blocks for permissionless players

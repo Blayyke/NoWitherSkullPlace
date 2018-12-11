@@ -1,0 +1,9 @@
+# The permission required to place wither skulls above soul sand
+permission: "nowsplace.place"
+
+# The message to send when the place is cancelled
+cancel-message: "&c&lERROR: &7You cannot place wither skulls above soul sand!"
+
+# A list of worlds the player should be able to place wither skulls above soul sand in.
+# Names should be lowercase, leave blank for a blanket prevention in every world.
+bypass-worlds: []
